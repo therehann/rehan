@@ -85,12 +85,12 @@ html, body{
     font-weight: 900;
     text-transform: uppercase;
     margin-left: 30px;
-    filter: drop-shadow(1px 0px 0px blue);
+   
 }
 
 #heading #secondh1{
     margin-left: 250px;
-    filter: drop-shadow(1px 0px 0px red);
+   
 }
 
 .blocktext{
